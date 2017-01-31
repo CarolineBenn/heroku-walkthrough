@@ -1,2 +1,2 @@
 # heroku-walkthrough
-Temporary repo to show how to Deploy to Heroku
+Temporary repo to show how to deploy to Heroku
